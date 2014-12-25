@@ -1,3 +1,6 @@
 A little test-file added to the project.
 Adding some really cool stuff.
 Even more cool stuff.
+
+Trying to add some more lines.
+To see if I am able to push them to github.
